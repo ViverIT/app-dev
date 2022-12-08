@@ -2,9 +2,9 @@
 My first repository
 
 **My favorite anime list**
--Shingatsu wa kimi no uso
--Date a live
--Black clover
+  -Shingatsu wa kimi no uso
+  -Date a live
+  -Black clover
 
 
 Shingatsu wa Kimi no Uso
